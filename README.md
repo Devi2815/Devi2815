@@ -91,7 +91,7 @@ A.V.N.M High School, Gujarati Peta, Srikakulam, Andhra Pradesh
 
 ## 📫 Contact Me
 📧 **Email:** devikommana@gmail.com , kommanadevi2002@gmail.com 
-💼 **LinkedIn:** [linkedin.com/in/devikommana](https://linkedin.com/in/devikommana)  
+💼 **LinkedIn:** [linkedin.com/in/devikommana](https://www.linkedin.com/in/kommana-devi-074a16251)  
 🐙 **GitHub:** [github.com/Devi2815](https://github.com/Devi2815)
 
 ---

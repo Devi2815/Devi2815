@@ -59,6 +59,26 @@ Developed a **full-stack e-commerce web application** that delivers a responsive
 
 ---
 
+### 📝 Simple Notes Taker Application  
+📅 *February 2025*  
+
+A simple yet powerful note-taking web application where users can register, log in, and manage their personal notes efficiently.  
+
+🧩 **Tech Stack:**  
+- **Backend:** Spring Boot, Spring Data JPA, Lombok  
+- **Frontend:** Thymeleaf, Bootstrap  
+- **Database:** MySQL  
+
+⚙️ **Features:**  
+- User registration and login functionality  
+- Full **CRUD operations** (Create, Read, Update, Delete) for personal notes  
+- **Visibility toggle** to hide or show notes  
+- Clean and maintainable code structure following best practices  
+
+📂 **Project Repository:** [https://github.com/Devi2815/SimpleNotesTakerApplication/tree/master](https://github.com/Devi2815/SimpleNotesTakerApplication/tree/master)
+
+---
+
 ### 📚 Single Page BOOKSAW Website Template  
 Developed a **responsive single-page BOOKSAW website template** using **Bootstrap, JavaScript, CSS, and HTML**, featuring carousels, interactive cards, and smooth navigation transitions.  
 

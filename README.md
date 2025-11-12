@@ -60,8 +60,6 @@ Developed a **full-stack e-commerce web application** that delivers a responsive
 ---
 
 ### 📝 Simple Notes Taker Application  
-📅 *February 2025*  
-
 A simple yet powerful note-taking web application where users can register, log in, and manage their personal notes efficiently.  
 
 🧩 **Tech Stack:**  

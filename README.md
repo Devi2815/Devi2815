@@ -42,6 +42,45 @@ This app combines spirituality and technology — offering devotees one convenie
 🎥 [Live Demo Video](https://drive.google.com/file/d/1fv0hms5zpHZGBj4l2J-hUzRlOAxtt-ta/view?usp=drive_link)
 
 ---
+### 🛍️ E-Commerce Web Application  
+Developed a **full-stack e-commerce web application** that delivers a responsive, intuitive, and dynamic user experience.  
+
+💻 **Frontend:** Built with **ReactJS**, ensuring smooth navigation and modern UI design for seamless shopping experiences.  
+⚙️ **Backend:** Powered by **Spring Boot**, managing **RESTful APIs** for product listings, user authentication, and order processing.  
+🗄️ **Database:** Integrated **MySQL** for real-time product, order, and user data management.  
+
+✨ **Key Features:**  
+- Product search and filtering  
+- Add-to-cart and checkout functionality  
+- Secure user login and registration  
+- Responsive design across all devices  
+
+🚀 This project showcases **end-to-end development** combining ReactJS and Spring Boot — aligning with full-stack engineering best practices.
+
+---
+
+### 📚 Single Page BOOKSAW Website Template  
+Developed a **responsive single-page BOOKSAW website template** using **Bootstrap, JavaScript, CSS, and HTML**, featuring carousels, interactive cards, and smooth navigation transitions.  
+
+✨ **Highlights:**  
+- Implemented **on-scroll animations** on the navigation bar for a dynamic user experience.  
+- Ensured **cross-device responsiveness** and compatibility across all screen sizes.  
+- Simple yet elegant layout ideal for e-book or digital product showcases.  
+
+🌐 **Live Website:** [https://booksawwebpagetemplate.netlify.app/](https://booksawwebpagetemplate.netlify.app/)
+
+---
+
+### 🎵 Responsive On-Wave Music Website Template  
+Built a **fully responsive multi-page music website template** using **HTML, CSS, and modern JavaScript (ES6)**, focusing on interactivity and design precision.  
+
+🎧 **Features:**  
+- Smooth and fast **cross-device navigation** for an uninterrupted browsing experience.  
+- Added **scroll-triggered animations** and **on-click events** for engaging user interactions.  
+- Designed an attractive UI layout for music lovers and streaming content presentation.  
+
+🌐 **Live Website:** [https://onwavewebsitetemplate.netlify.app/](https://onwavewebsitetemplate.netlify.app/)
+
 
 ## 🧠 Skills
 
@@ -55,7 +94,7 @@ This app combines spirituality and technology — offering devotees one convenie
 
 **Cloud:** AWS  
 
-**Tools:** Git, GitHub, Postman, Figma, Canva, Zustand, Render, VS Code, IntelliJ IDEA, Eclipse, Expo  
+**Tools:** Git, GitHub, Postman, Figma, Canva, Zustand, Render, VS Code, IntelliJ IDEA, Eclipse, Expo,  MS Excel, PowerPoint
 
 **Other Interests:** Currently diving into the world of **AI/ML**, with hands-on knowledge in **Machine Learning**, **Deep Learning**, and the **Scikit-Learn** framework.  
 

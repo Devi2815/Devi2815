@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Devi Kommana  
-🎯 Full Stack Developer | React Native | MERN | Java Spring Boot | AI & ML Enthusiast  
+🎯 Full Stack Developer | Mobile / Web Applications Development | React Native | MERN | Java Spring Boot | AI & ML Enthusiast  
 
 ---
 
@@ -139,10 +139,11 @@ A.V.N.M High School, Gujarati Peta, Srikakulam, Andhra Pradesh
 
 ## 🏅 Certifications
 
-1. **Full Stack Java Development** – InfoZ-IT Solutions, Secunderabad  
-2. **Full Stack Java Development** – TEKs Academy, Hyderabad  
-3. **Core Java** – Internshala  
-4. **PostgreSQL** – Internshala  
+1. **Software Development intern** – Zerokost Healthcare Pvt Ltd
+2. **Full Stack Java Development** – InfoZ-IT Solutions, Secunderabad  
+3. **Full Stack Java Development** – TEKs Academy, Hyderabad  
+4. **Core Java** – Internshala  
+5. **PostgreSQL** – Internshala  
 
 ---
 
